@@ -1,6 +1,6 @@
-site_name: 'NHP Basal Ganglia taxonomy (Macaque)'
-repo_url: https://github.com/Cellular-Semantics/nhp_basal_ganglia_macaque_taxonomy
-repo_name: Cellular-Semantics/nhp_basal_ganglia_macaque_taxonomy
+site_name: 'Basal Ganglia taxonomy (Macaque)'
+repo_url: https://github.com/brain-bican/basal_ganglia_macaque_taxonomy
+repo_name: brain-bican/basal_ganglia_macaque_taxonomy
 docs_dir: docs
 
 nav:
